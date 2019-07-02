@@ -1,3 +1,6 @@
 this is file 1
 new stuff
 more
+----
+Added another line for git Diff --staged 
+----
